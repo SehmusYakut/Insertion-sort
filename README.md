@@ -13,8 +13,10 @@
 5-) [2,6,16,18,22,27] (n-3 adet adet tarama)
 
 
+
 2.
 Big O notation gösterimi: O(n^2)
+
 
 
 3.
@@ -23,8 +25,10 @@ Average case: O(n^2)
 Worse case: O(n^2)
 
 
+
 4.
 18 sayısı ortalarda olduğundan average case kapsamında değerlendirilir.
+
 
 
 5.
@@ -46,6 +50,7 @@ Worse case: O(n^2)
 
 8-) [2,3,4,5,6,7,8,9,15]
 
-Patika.dev
+
+Patika.dev ===> 
 https://app.patika.dev
 

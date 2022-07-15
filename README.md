@@ -18,10 +18,16 @@ Big O notation gösterimi: O(n^2)
 
 
 3.
-18 sayısı ortalarda olduğundan average case kapsamında değerlendirilir.
+Best case: O(n)
+Average case: O(n^2)
+Worse case: O(n^2)
 
 
 4.
+18 sayısı ortalarda olduğundan average case kapsamında değerlendirilir.
+
+
+5.
 [7,3,5,8,2,9,4,15,6]
 
 1-) [2,3,5,8,7,9,4,15,6]
@@ -40,5 +46,6 @@ Big O notation gösterimi: O(n^2)
 
 8-) [2,3,4,5,6,7,8,9,15]
 
-
+Patika.dev
+https://app.patika.dev
 
